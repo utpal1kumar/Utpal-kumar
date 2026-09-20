@@ -1,4 +1,4 @@
-﻿<div align=\"center\">
+<div align=\"center\">
   <img src=\"https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2&height=220&section=header&text=Hey%20there,%20I'm%20Utpal%20Kumar%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn\" alt=\"Header Banner\" width=\"100%\" />
 
   <a href=\"https://git.io/typing-svg\">
